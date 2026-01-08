@@ -59,7 +59,7 @@ Key operations performed:
 - **Insight 2**: Friday is the day of the week with the most accidents. [View graph](https://github.com/VincenzoPaternoster/Python-Analysis-of-air-disasters-from-1919-to-2023/blob/main/image/Barcharts/Accidents_and_days.png)
  
 - **Insight 3**: USAF, USAAF, and RAF operators are the least safe operators [View graph](https://github.com/VincenzoPaternoster/Python-Analysis-of-air-disasters-from-1919-to-2023/blob/main/image/Barcharts/Unsafe_and_safe.png)
-- 
+ 
 - **Insight 4**: The Douglas C-47A (DC-3) is the aircraft model that has caused the most victims.  [View graph](https://github.com/VincenzoPaternoster/Python-Analysis-of-air-disasters-from-1919-to-2023/blob/main/image/Barcharts/Type_of_planes_and_death.png)
 
 - **Insight 5**: The number of plane crashes after September 11, 2001, did not decrease in the following years  [View graph](https://github.com/VincenzoPaternoster/Python-Analysis-of-air-disasters-from-1919-to-2023/blob/main/image/Barcharts/2001.png)
